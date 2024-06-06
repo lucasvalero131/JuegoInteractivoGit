@@ -56,3 +56,15 @@
 
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/9c63beef-ff8a-4785-8706-d70fbdde12f3)
 
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/59d39e62-5ff6-4871-9543-8a972b140749)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/94ae5bc5-5cb4-4380-b31e-0228b38e18e6)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/f0ba7d93-81bf-4986-9b44-36f0662df235)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/a0fecede-428e-4697-b4c6-2d0ef84090a6)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/0c9bafd7-03f4-4c91-9a79-6676fa1873dd)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/4ba04079-fe86-4f00-884a-d3b2455f144c)
+
