@@ -3,6 +3,8 @@
 
 # PRINCIPAL:
 
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/20962991-0175-4e4a-aca8-44657ceb36b1)
+
 
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/f112124d-4f6e-4933-be6d-6e73c6ee030a)
 
@@ -41,6 +43,9 @@
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/17d6ce3d-906a-49cf-88e8-d597d6bb1c13)
 
 # REMOTE:
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/9216361f-433e-4098-80c1-686b0b1787ad)
+
 
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/f1d74a56-43b8-4cf7-9303-d0c3fbd3d0af)
 
