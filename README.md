@@ -18,3 +18,8 @@
 
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/d02aed99-8371-4848-9f11-961250fa686b)
 
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/510f4b6e-4093-48bb-a2bb-d81b56209e49)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/34662595-36d8-4fa8-8ce2-f75a3613e42d)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/4fc7a562-be84-4434-a3e1-a9f2aad838f1)
