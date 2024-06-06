@@ -40,4 +40,4 @@
 
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/17d6ce3d-906a-49cf-88e8-d597d6bb1c13)
 
-# REMOTE
+# REMOTE:
