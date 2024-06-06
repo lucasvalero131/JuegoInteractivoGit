@@ -1,5 +1,9 @@
 # JuegoInteractivoGit
 
+
+# PRINCIPAL:
+
+
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/f112124d-4f6e-4933-be6d-6e73c6ee030a)
 
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/2c433c78-3e2e-45ac-88e2-9c75d92e1660)
