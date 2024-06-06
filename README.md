@@ -32,3 +32,8 @@
 
 ![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/908d8cf5-197e-43ba-9aaf-e4e72f66d147)
 
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/c7cf33c9-9a29-4709-a14a-e32d2dc98f3e)
+
+![image](https://github.com/lucasvalero131/JuegoInteractivoGit/assets/145476792/17d6ce3d-906a-49cf-88e8-d597d6bb1c13)
+
+# REMOTE
